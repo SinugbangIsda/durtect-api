@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import torch
 import os 
-model = torch.hub.load('ML/yolov5-master', 'custom', path = 'ML/weights/best.pt', source = "local")
+model = torch.hub.load('ML/yolov5-master', 'custom', path = 'ML/weights/jesus.pt', source = "local")
 
 app = Flask(__name__)
 
@@ -18,4 +18,4 @@ def detect():
     return gege
 
 if __name__ == "__main__":
-    app.run(host = "0.0.0.0", port = 5000, debug = True)
+    app.run(host = "0.0.0.0", port = 5000, debug = True) 
