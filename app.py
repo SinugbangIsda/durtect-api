@@ -19,7 +19,11 @@ def detect():
     os.remove(file_name)
     # shutil.rmtree("runs")
     print(data)
+    save_to_db(data)
     return data
+
+def save_to_db(data):
+    print(data, " gege")
 
 if __name__ == "__main__":
     model = torch.hub.load('ultralytics/yolov5', 'custom', path = 'ML/weights/jesus.pt')
