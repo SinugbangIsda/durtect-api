@@ -1,0 +1,41 @@
+[
+    {
+        "disease": "Pythophthora Palmivora",
+        "category": [
+            "Severe",
+            "Healthy",
+            "Deceased"
+        ],
+        "variety": [
+            {
+                "name": "Puyat",
+                "description": "Susceptible to infection by Pythopthora Palmivora"
+            },
+            {
+                "name": "Arancillo",
+                "description": "More resistant to infection by Pythopthora Palmivora"
+            }
+        ],
+        "symptoms": [
+            {
+                "name": "Gummosis",
+                "description": "Exudation of gum or sap from the affected tissue."
+            },
+            {
+                "name": "Discoloration",
+                "description": "Darkening or black spots of tree trunks."
+            },
+            {
+                "name": "Mycelium",
+                "description": "Presence of fungal growth on rotting tree trunks, which thrive in humid and warm conditions."
+            }  
+        ],
+        "treatment": [
+            {
+                "name": "Trichoderma harzianum",
+                "description": "Application of Trichoderma harzianum can be an effective treatment for controlling Pythophthora Palmivora. The fungus Trichoderma harzianum is a biocontrol agent that is able to colonize and compete with the pathogen, reducing its ability to infect the plant. This treatment can be applied through scraping of the infected part of the bark then the application of the treatment."
+            }
+        ],
+        "info": "Pythophthora Palmivora is a soil-borne pathogen that infects a wide range of plants especially durian trees, causing root rot and other symptoms. It is typically found in warm, wet conditions and can be controlled through the use of fungicides, biological control agents such as Trichoderma harzianum and other management practices."
+    }
+]
