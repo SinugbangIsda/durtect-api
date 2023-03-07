@@ -1,0 +1,20 @@
+{
+    "disease": "Pythopthora Palmivora",
+    "category": [
+        "Severe",
+        "Healthy",
+        "Deceased"
+    ],
+    "variety": {
+        "Puyat": "The Puyat variety is susceptible to infection by Pythopthora Palmivora",
+        "Arancillo": "The Arancillo variety is more resistant to infection by Pythopthora Palmivora"
+    },
+    "symptoms": {
+        "Gummosis": "Gummosis is a symptom of infection by Pythopthora Palmivora, characterized by the exudation of gum or sap from the affected tissue.",
+        "Discoloration": "Discoloration is another symptom of infection by Pythopthora Palmivora, characterized by dark spots of the bark.",
+        "Mycelium":"Mycelium is a symptom of infection by Pythopthora Palmivora, characterized by the presence of fungal growth on rotting tree trunks, which thrive in humid and warm conditions."
+    },
+    "treatment": "Application of Trichoderma harzianum can be an effective treatment for controlling Pythopthora Palmivora. The fungus Trichoderma harzianum is a biocontrol agent that is able to colonize and compete with the pathogen, reducing its ability to infect the plant. This treatment can be applied through scraping of the infected bark then the application of treatment.",
+    "info": "Pythopthora Palmivora is a soil-borne pathogen that infects a wide range of plants, causing patch canker and other symptoms. It is typically found in warm, wet conditions and can be controlled through the use of fungicides, biological control agents such as Trichoderma harzianum and other management practices."
+}
+
